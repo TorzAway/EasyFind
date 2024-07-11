@@ -13,5 +13,6 @@ You can also access settings for EasyFind through /mqsettings
 --
 The configuration file (ZoneConnections.yaml) is used to bypass the default server configurations for Zonelines / Translocators / Switches / Doors, this is needed
 on EMU servers, as there might be specific content ( Server specific Translocators or locations ). 
---
+-
 This version is for the Project Lazarus (EMU) EverQuest server.
+-

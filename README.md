@@ -31,6 +31,6 @@ Bazaar - (Translocators [Celli])
 
 Note(4): ToDo List: 
 
---- PoK Book connections to Plane of Knowledge for EACH zone PoK links to.
+--- PoK Book connections back to Plane of Knowledge for/from EACH zone a PoK "book" links to.
 
 --- EVERY ZONELINE CONNECTION FOR NORRATH ZONES !!!!!

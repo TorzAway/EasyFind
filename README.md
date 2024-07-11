@@ -1,4 +1,4 @@
-EasyFind is a plugin that helps get you around EverQuest, and while the heavy lifting and actual character movement is provided by the Nav plugin, EasyFind tells it where to go.
+MQ2EasyFind is a plugin that helps get you around EverQuest, and while the heavy lifting and actual character movement is provided by the Nav plugin, EasyFind tells it where to go.
 
 EasyFind provides two main categories of functionality:
 Finding locations in the current zone.

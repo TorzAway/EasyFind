@@ -20,4 +20,3 @@ on EMU servers, as there might be specific content ( Server specific Translocato
 
 Note(2): When using the plugin via the LUA interface ( /EasyFind UI ) you MUST go into the Settings TAB and ENABLE (Ignore Zone Connection Data).
 This will force the plugin to USE the (ZoneConnections.yaml) file and ignore server data.
---

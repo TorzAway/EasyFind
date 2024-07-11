@@ -30,6 +30,7 @@ Temple of Marr - (Translocators [Klonepin])
 Bazaar - (Translocators [Celli])
 
 Note(4): ToDo 
+
 --- PoK Book connections to Plane of Knowledge for EACH zone PoK links to.
 
 --- EVERY ZONELINE CONNECTION FOR NORRATH ZONES !!!!!

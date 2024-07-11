@@ -22,6 +22,7 @@ Note(2): When using the plugin via the LUA interface ( /EasyFind UI ) you MUST g
 This will force the plugin to USE the (ZoneConnections.yaml) file and ignore server data.
 
 Note(3): Currently completed: 
+
 Plane of Knoweldge - (PoK Switches | Translocators [Valium / Magus Alaria / Mavis / Priest of Discord] | Guild Hall | Bazaar )
 
 Temple of Marr - (Translocators [Klonepin])

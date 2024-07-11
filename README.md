@@ -13,10 +13,10 @@ The /travelto command - travel to another zone
 
 You can also access settings for EasyFind through /mqsettings
 --
-Note:
+Note(s):
 --
-The configuration file (ZoneConnections.yaml) is used to bypass the default server configurations for Zonelines / Translocators / Switches / Doors, this is needed
+Note(1): The configuration file (ZoneConnections.yaml) is used to bypass the default server configurations for Zonelines / Translocators / Switches / Doors, this is needed
 on EMU servers, as there might be specific content ( Server specific Translocators or locations ). 
 
-When using the plugin via the LUA interface (/EasyFind UI) you MUST go into the Settings TAB and ENABLE (Ignore ZOne COnnection Data).
+Note(2): When using the plugin via the LUA interface ( /EasyFind UI ) you MUST go into the Settings TAB and ENABLE (Ignore Zone Connection Data).
 This will force the plugin to USE the (ZoneConnections.yaml) file and ignore server data.

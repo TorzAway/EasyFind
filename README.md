@@ -12,7 +12,9 @@ The /easyfind command - find locations in the current zone
 The /travelto command - travel to another zone
 
 You can also access settings for EasyFind through /mqsettings
-
+--
+Note:
+--
 The configuration file (ZoneConnections.yaml) is used to bypass the default server configurations for Zonelines / Translocators / Switches / Doors, this is needed
 on EMU servers, as there might be specific content ( Server specific Translocators or locations ). 
 

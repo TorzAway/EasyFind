@@ -856,7 +856,16 @@ FindLocations:
         -   type: ZoneConnection
             location: [-243.779, 357.845, -149.34]
             switch: 2
-            targetZone: bloodfalls
+            targetZone: bloodfalls            
+    misty:
+        -   type: ZoneConnection
+            location: [407.12, -2582.54, -7.62]
+            targetZone: rivervale
+        -   type: ZoneConnection
+            switch: POKTELE500
+            targetZone: poknowledge
+            identifier: 44
+            replace: false 
     mmca:
         -   type: ZoneConnection
             location: [-334.58, -598.29, 4.80]
@@ -1788,7 +1797,7 @@ FindLocations:
             
         -   type: ZoneConnection
             switch: POKRVPORT500
-            targetZone: mistythicket
+            targetZone: misty
             identifier: 37
             replace: false
 
@@ -2084,7 +2093,7 @@ FindLocations:
     rivervale:
         -   type: ZoneConnection
             location: [-86.14, 100, 4.06]
-            targetZone: mistythicket
+            targetZone: misty
     ruja:
         -   type: ZoneConnection
             location: [-119.61, 800.72, -95.09]
@@ -2139,7 +2148,7 @@ FindLocations:
             targetZone: beholder
         -   type: ZoneConnection
             location: [281.88, 133.17, 5.06]
-            targetZone: mistythicket
+            targetZone: misty
     scorchedwoods:
         -   type: ZoneConnection
             location: [-3129, -1235, -292]
